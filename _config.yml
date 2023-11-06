@@ -1,3 +1,6 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: 个人杂想
+description: 记录存储一下个人的想法
